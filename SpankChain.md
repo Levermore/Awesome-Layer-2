@@ -567,6 +567,42 @@ STARK
 ## Sprites
 ## SpankChain
 
+### Basic Information
+
+[Website](https://spankchain.com/)
+
+[Twitter](https://twitter.com/SpankChain)
+
+[GitHub](https://github.com/SpankChain)
+
+[Medium](https://medium.com/@SpankChain)
+
+[Youtube](https://www.youtube.com/channel/UCRonD1SJuucnq9GJCJL_crQ)
+
+[Discord](https://discordapp.com/invite/S42CBSg)
+
+[Instagram](https://www.instagram.com/spankchain/)
+
+[Facebook](https://www.facebook.com/spankchain)
+
+### Product/Document
+
+[white paper](https://spankchain.com/static/SpankChain%20Whitepaper%20(EN).pdf)
+
+[blog](https://spankchain.com/community/#blog)
+
+### Articles
+
+[We Got Spanked: What We Know So Far](https://medium.com/spankchain/we-got-spanked-what-we-know-so-far-d5ed3a0f38fe)
+
+[What are SPANK and BOOTY?](https://medium.com/spankchain/what-are-spank-and-booty-24822d5ee5c9)
+
+[A State Channels Adventure with Counterfactual Rick! (Part 1)](https://medium.com/spankchain/a-state-channels-adventure-with-counterfactual-rick-part-1-ce68e16252ea)
+
+[Introducing CryptoTitties](https://medium.com/spankchain/introducing-cryptotitties-2d0b2df1fca5)
+
+[The SpankChain Auction is Live: How It Works](https://medium.com/spankchain/the-spankchain-auction-is-live-how-it-works-5bef5c01019e)
+
 ### Videos
 [SpankChain: Payment Channels in Production by Ameen Soleimani & Arjun Bhupati (Devcon4)](https://www.youtube.com/watch?v=Z3TCTnmd-tQ)
 
